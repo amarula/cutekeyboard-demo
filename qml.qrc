@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/amarulasolutions.com/imports">
+        <file>qml/window.qml</file>
+        <file>qml/Landpage.qml</file>
+        <file>qml/NormalTextPage.qml</file>
+        <file>qml/DigitTextPage.qml</file>
+        <file>qml/ColorPickerPage.qml</file>
+        <file>qml/CustomTextField.qml</file>
+        <file>Fonts/Titillium_Web/TitilliumWeb-Regular.ttf</file>
+    </qresource>
+</RCC>
